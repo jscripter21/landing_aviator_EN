@@ -5,7 +5,7 @@ anim.loadAnimation({
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: '../js/Aviator_motion.json'
+    path: './js/Aviator_motion.json'
 });
 
 
